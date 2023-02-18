@@ -1,1 +1,2 @@
 # Scripts
+echo "Hello, World!"
